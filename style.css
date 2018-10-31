@@ -1,0 +1,14 @@
+
+* {
+    font-family: Tahoma ;
+    font-size: 11px;
+}
+h1{
+    margin: 30px;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: cadetblue;
+}
